@@ -73,3 +73,9 @@ soroban contract invoke \
 ## License
 
 MIT
+
+✅ Transaction submitted successfully!
+🔗 https://stellar.expert/explorer/testnet/tx/83bbd0721a929fb2e1c77a3ad75d72da4e1f62792addc5c7d15dfd89840d0e31
+🔗 https://lab.stellar.org/r/testnet/contract/CCD2F64NCDGY5FJFVUP674Q5ZUBEFDRX3IVOE2QUF6VUCEXDMG6RA6BH
+✅ Deployed!
+CCD2F64NCDGY5FJFVUP674Q5ZUBEFDRX3IVOE2QUF6VUCEXDMG6RA6BH
